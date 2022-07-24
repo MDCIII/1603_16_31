@@ -25,7 +25,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bakı"@aze-Latn ,
         "Baku"@eng-Latn ;
-    wdata:q7200235 "AZ00000003" ;
+    wdata:Q7200235 "AZ00000003" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -122,7 +122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sədərək"@aze-Latn ,
         "Sadarak"@eng-Latn ;
-    wdata:q7200235 "AZ10100001" ;
+    wdata:Q7200235 "AZ10100001" ;
 .
 
 <urn:mdciii:1603:16:31:1:10200001>
@@ -135,7 +135,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Şərur"@aze-Latn ,
         "Sharur"@eng-Latn ;
-    wdata:q7200235 "AZ10200001" ;
+    wdata:Q7200235 "AZ10200001" ;
 .
 
 <urn:mdciii:1603:16:31:1:10300001>
@@ -148,7 +148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Babək"@aze-Latn ,
         "Babek"@eng-Latn ;
-    wdata:q7200235 "AZ10300001" ;
+    wdata:Q7200235 "AZ10300001" ;
 .
 
 <urn:mdciii:1603:16:31:1:10400002>
@@ -161,7 +161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Naxçıvan"@aze-Latn ,
         "Nakhchivan"@eng-Latn ;
-    wdata:q7200235 "AZ10400002" ;
+    wdata:Q7200235 "AZ10400002" ;
 .
 
 <urn:mdciii:1603:16:31:1:10500001>
@@ -174,7 +174,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Şahbuz"@aze-Latn ,
         "Shahbuz"@eng-Latn ;
-    wdata:q7200235 "AZ10500001" ;
+    wdata:Q7200235 "AZ10500001" ;
 .
 
 <urn:mdciii:1603:16:31:1:10600001>
@@ -187,7 +187,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Culfa"@aze-Latn ,
         "Julfa"@eng-Latn ;
-    wdata:q7200235 "AZ10600001" ;
+    wdata:Q7200235 "AZ10600001" ;
 .
 
 <urn:mdciii:1603:16:31:1:10700001>
@@ -200,7 +200,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ordubad"@aze-Latn ,
         "Ordubad"@eng-Latn ;
-    wdata:q7200235 "AZ10700001" ;
+    wdata:Q7200235 "AZ10700001" ;
 .
 
 <urn:mdciii:1603:16:31:1:10800001>
@@ -213,7 +213,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kəngərli"@aze-Latn ,
         "Kengerli"@eng-Latn ;
-    wdata:q7200235 "AZ10800001" ;
+    wdata:Q7200235 "AZ10800001" ;
 .
 
 <urn:mdciii:1603:16:31:1:20000002>
@@ -226,7 +226,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gəncə"@aze-Latn ,
         "Ganja"@eng-Latn ;
-    wdata:q7200235 "AZ20000002" ;
+    wdata:Q7200235 "AZ20000002" ;
 .
 
 <urn:mdciii:1603:16:31:1:30100001>
@@ -239,7 +239,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qusar"@aze-Latn ,
         "Gusar"@eng-Latn ;
-    wdata:q7200235 "AZ30100001" ;
+    wdata:Q7200235 "AZ30100001" ;
 .
 
 <urn:mdciii:1603:16:31:1:30200001>
@@ -252,7 +252,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xaçmaz"@aze-Latn ,
         "Khachmaz"@eng-Latn ;
-    wdata:q7200235 "AZ30200001" ;
+    wdata:Q7200235 "AZ30200001" ;
 .
 
 <urn:mdciii:1603:16:31:1:30300001>
@@ -265,7 +265,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quba"@aze-Latn ,
         "Guba"@eng-Latn ;
-    wdata:q7200235 "AZ30300001" ;
+    wdata:Q7200235 "AZ30300001" ;
 .
 
 <urn:mdciii:1603:16:31:1:30400001>
@@ -278,7 +278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Şabran"@aze-Latn ,
         "Shabran"@eng-Latn ;
-    wdata:q7200235 "AZ30400001" ;
+    wdata:Q7200235 "AZ30400001" ;
 .
 
 <urn:mdciii:1603:16:31:1:30500001>
@@ -291,7 +291,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Siyəzən"@aze-Latn ,
         "Siyazan"@eng-Latn ;
-    wdata:q7200235 "AZ30500001" ;
+    wdata:Q7200235 "AZ30500001" ;
 .
 
 <urn:mdciii:1603:16:31:1:30600001>
@@ -304,7 +304,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xızı"@aze-Latn ,
         "Khizy"@eng-Latn ;
-    wdata:q7200235 "AZ30600001" ;
+    wdata:Q7200235 "AZ30600001" ;
 .
 
 <urn:mdciii:1603:16:31:1:30700001>
@@ -317,7 +317,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qobustan"@aze-Latn ,
         "Gobustan"@eng-Latn ;
-    wdata:q7200235 "AZ30700001" ;
+    wdata:Q7200235 "AZ30700001" ;
 .
 
 <urn:mdciii:1603:16:31:1:30800001>
@@ -330,7 +330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Abşeron"@aze-Latn ,
         "Absheron"@eng-Latn ;
-    wdata:q7200235 "AZ30800001" ;
+    wdata:Q7200235 "AZ30800001" ;
 .
 
 <urn:mdciii:1603:16:31:1:30900002>
@@ -343,7 +343,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sumqayıt"@aze-Latn ,
         "Sumgait"@eng-Latn ;
-    wdata:q7200235 "AZ30900002" ;
+    wdata:Q7200235 "AZ30900002" ;
 .
 
 <urn:mdciii:1603:16:31:1:40100001>
@@ -356,7 +356,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Balakən"@aze-Latn ,
         "Balakan"@eng-Latn ;
-    wdata:q7200235 "AZ40100001" ;
+    wdata:Q7200235 "AZ40100001" ;
 .
 
 <urn:mdciii:1603:16:31:1:40200001>
@@ -369,7 +369,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zaqatala"@aze-Latn ,
         "Zagatala"@eng-Latn ;
-    wdata:q7200235 "AZ40200001" ;
+    wdata:Q7200235 "AZ40200001" ;
 .
 
 <urn:mdciii:1603:16:31:1:40300001>
@@ -382,7 +382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qax"@aze-Latn ,
         "Gakh"@eng-Latn ;
-    wdata:q7200235 "AZ40300001" ;
+    wdata:Q7200235 "AZ40300001" ;
 .
 
 <urn:mdciii:1603:16:31:1:40401002>
@@ -395,7 +395,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Şəki"@aze-Latn ,
         "Shaki"@eng-Latn ;
-    wdata:q7200235 "AZ40401002" ;
+    wdata:Q7200235 "AZ40401002" ;
 .
 
 <urn:mdciii:1603:16:31:1:40500001>
@@ -408,7 +408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Oğuz"@aze-Latn ,
         "Oghuz"@eng-Latn ;
-    wdata:q7200235 "AZ40500001" ;
+    wdata:Q7200235 "AZ40500001" ;
 .
 
 <urn:mdciii:1603:16:31:1:40600001>
@@ -421,7 +421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qəbələ"@aze-Latn ,
         "Gabala"@eng-Latn ;
-    wdata:q7200235 "AZ40600001" ;
+    wdata:Q7200235 "AZ40600001" ;
 .
 
 <urn:mdciii:1603:16:31:1:40700001>
@@ -434,7 +434,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "İsmayıllı"@aze-Latn ,
         "Ismayilly"@eng-Latn ;
-    wdata:q7200235 "AZ40700001" ;
+    wdata:Q7200235 "AZ40700001" ;
 .
 
 <urn:mdciii:1603:16:31:1:40800001>
@@ -447,7 +447,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Göyçay"@aze-Latn ,
         "Goychay"@eng-Latn ;
-    wdata:q7200235 "AZ40800001" ;
+    wdata:Q7200235 "AZ40800001" ;
 .
 
 <urn:mdciii:1603:16:31:1:40900001>
@@ -460,7 +460,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ağsu"@aze-Latn ,
         "Aghsu"@eng-Latn ;
-    wdata:q7200235 "AZ40900001" ;
+    wdata:Q7200235 "AZ40900001" ;
 .
 
 <urn:mdciii:1603:16:31:1:41000001>
@@ -473,7 +473,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Şamaxı"@aze-Latn ,
         "Shamakhy"@eng-Latn ;
-    wdata:q7200235 "AZ41000001" ;
+    wdata:Q7200235 "AZ41000001" ;
 .
 
 <urn:mdciii:1603:16:31:1:50100001>
@@ -486,7 +486,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qazax"@aze-Latn ,
         "Gazakh"@eng-Latn ;
-    wdata:q7200235 "AZ50100001" ;
+    wdata:Q7200235 "AZ50100001" ;
 .
 
 <urn:mdciii:1603:16:31:1:50200001>
@@ -499,7 +499,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ağstafa"@aze-Latn ,
         "Aghstafa"@eng-Latn ;
-    wdata:q7200235 "AZ50200001" ;
+    wdata:Q7200235 "AZ50200001" ;
 .
 
 <urn:mdciii:1603:16:31:1:50300001>
@@ -512,7 +512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tovuz"@aze-Latn ,
         "Tovuz"@eng-Latn ;
-    wdata:q7200235 "AZ50300001" ;
+    wdata:Q7200235 "AZ50300001" ;
 .
 
 <urn:mdciii:1603:16:31:1:50400001>
@@ -525,7 +525,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Şəmkir"@aze-Latn ,
         "Shamkir"@eng-Latn ;
-    wdata:q7200235 "AZ50400001" ;
+    wdata:Q7200235 "AZ50400001" ;
 .
 
 <urn:mdciii:1603:16:31:1:50500001>
@@ -538,7 +538,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gədəbəy"@aze-Latn ,
         "Gadabay"@eng-Latn ;
-    wdata:q7200235 "AZ50500001" ;
+    wdata:Q7200235 "AZ50500001" ;
 .
 
 <urn:mdciii:1603:16:31:1:50600001>
@@ -551,7 +551,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Daşkəsən"@aze-Latn ,
         "Dashkasan"@eng-Latn ;
-    wdata:q7200235 "AZ50600001" ;
+    wdata:Q7200235 "AZ50600001" ;
 .
 
 <urn:mdciii:1603:16:31:1:50700001>
@@ -564,7 +564,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Samux"@aze-Latn ,
         "Samukh"@eng-Latn ;
-    wdata:q7200235 "AZ50700001" ;
+    wdata:Q7200235 "AZ50700001" ;
 .
 
 <urn:mdciii:1603:16:31:1:50800001>
@@ -577,7 +577,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Göygöl"@aze-Latn ,
         "Goygol"@eng-Latn ;
-    wdata:q7200235 "AZ50800001" ;
+    wdata:Q7200235 "AZ50800001" ;
 .
 
 <urn:mdciii:1603:16:31:1:50900001>
@@ -590,7 +590,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Goranboy"@aze-Latn ,
         "Goranboy"@eng-Latn ;
-    wdata:q7200235 "AZ50900001" ;
+    wdata:Q7200235 "AZ50900001" ;
 .
 
 <urn:mdciii:1603:16:31:1:51000002>
@@ -603,7 +603,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Naftalan"@aze-Latn ,
         "Naftalan"@eng-Latn ;
-    wdata:q7200235 "AZ51000002" ;
+    wdata:Q7200235 "AZ51000002" ;
 .
 
 <urn:mdciii:1603:16:31:1:60100001>
@@ -616,7 +616,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kəlbəcər"@aze-Latn ,
         "Kalbajar"@eng-Latn ;
-    wdata:q7200235 "AZ60100001" ;
+    wdata:Q7200235 "AZ60100001" ;
 .
 
 <urn:mdciii:1603:16:31:1:60200001>
@@ -629,7 +629,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Laçın"@aze-Latn ,
         "Lachin"@eng-Latn ;
-    wdata:q7200235 "AZ60200001" ;
+    wdata:Q7200235 "AZ60200001" ;
 .
 
 <urn:mdciii:1603:16:31:1:60300001>
@@ -642,7 +642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qubadlı"@aze-Latn ,
         "Gubadly"@eng-Latn ;
-    wdata:q7200235 "AZ60300001" ;
+    wdata:Q7200235 "AZ60300001" ;
 .
 
 <urn:mdciii:1603:16:31:1:60400001>
@@ -655,7 +655,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zəngilan"@aze-Latn ,
         "Zangilan"@eng-Latn ;
-    wdata:q7200235 "AZ60400001" ;
+    wdata:Q7200235 "AZ60400001" ;
 .
 
 <urn:mdciii:1603:16:31:1:60500001>
@@ -668,7 +668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cəbrayıl"@aze-Latn ,
         "Jabrayil"@eng-Latn ;
-    wdata:q7200235 "AZ60500001" ;
+    wdata:Q7200235 "AZ60500001" ;
 .
 
 <urn:mdciii:1603:16:31:1:60600001>
@@ -681,7 +681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Füzuli"@aze-Latn ,
         "Fuzuli"@eng-Latn ;
-    wdata:q7200235 "AZ60600001" ;
+    wdata:Q7200235 "AZ60600001" ;
 .
 
 <urn:mdciii:1603:16:31:1:60700001>
@@ -694,7 +694,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Beyləqan"@aze-Latn ,
         "Beylagan"@eng-Latn ;
-    wdata:q7200235 "AZ60700001" ;
+    wdata:Q7200235 "AZ60700001" ;
 .
 
 <urn:mdciii:1603:16:31:1:60800001>
@@ -707,7 +707,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ağcabədi"@aze-Latn ,
         "Agdjabadi"@eng-Latn ;
-    wdata:q7200235 "AZ60800001" ;
+    wdata:Q7200235 "AZ60800001" ;
 .
 
 <urn:mdciii:1603:16:31:1:60900001>
@@ -720,7 +720,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ağdam"@aze-Latn ,
         "Aghdam"@eng-Latn ;
-    wdata:q7200235 "AZ60900001" ;
+    wdata:Q7200235 "AZ60900001" ;
 .
 
 <urn:mdciii:1603:16:31:1:61000001>
@@ -733,7 +733,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bərdə"@aze-Latn ,
         "Barda"@eng-Latn ;
-    wdata:q7200235 "AZ61000001" ;
+    wdata:Q7200235 "AZ61000001" ;
 .
 
 <urn:mdciii:1603:16:31:1:61100001>
@@ -746,7 +746,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tərtər"@aze-Latn ,
         "Tartar"@eng-Latn ;
-    wdata:q7200235 "AZ61100001" ;
+    wdata:Q7200235 "AZ61100001" ;
 .
 
 <urn:mdciii:1603:16:31:1:70100001>
@@ -759,7 +759,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xocalı"@aze-Latn ,
         "Khojaly"@eng-Latn ;
-    wdata:q7200235 "AZ70100001" ;
+    wdata:Q7200235 "AZ70100001" ;
 .
 
 <urn:mdciii:1603:16:31:1:70200001>
@@ -772,7 +772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Şuşa"@aze-Latn ,
         "Shusha"@eng-Latn ;
-    wdata:q7200235 "AZ70200001" ;
+    wdata:Q7200235 "AZ70200001" ;
 .
 
 <urn:mdciii:1603:16:31:1:70300001>
@@ -785,7 +785,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xocavənd"@aze-Latn ,
         "Khojavand"@eng-Latn ;
-    wdata:q7200235 "AZ70300001" ;
+    wdata:Q7200235 "AZ70300001" ;
 .
 
 <urn:mdciii:1603:16:31:1:70400002>
@@ -798,7 +798,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xankəndi"@aze-Latn ,
         "Khankendi"@eng-Latn ;
-    wdata:q7200235 "AZ70400002" ;
+    wdata:Q7200235 "AZ70400002" ;
 .
 
 <urn:mdciii:1603:16:31:1:80100001>
@@ -811,7 +811,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Astara"@aze-Latn ,
         "Astara"@eng-Latn ;
-    wdata:q7200235 "AZ80100001" ;
+    wdata:Q7200235 "AZ80100001" ;
 .
 
 <urn:mdciii:1603:16:31:1:80201002>
@@ -824,7 +824,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lənkəran"@aze-Latn ,
         "Lankaran"@eng-Latn ;
-    wdata:q7200235 "AZ80201002" ;
+    wdata:Q7200235 "AZ80201002" ;
 .
 
 <urn:mdciii:1603:16:31:1:80300001>
@@ -837,7 +837,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lerik"@aze-Latn ,
         "Lerik"@eng-Latn ;
-    wdata:q7200235 "AZ80300001" ;
+    wdata:Q7200235 "AZ80300001" ;
 .
 
 <urn:mdciii:1603:16:31:1:80400001>
@@ -850,7 +850,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yardımlı"@aze-Latn ,
         "Yardimly"@eng-Latn ;
-    wdata:q7200235 "AZ80400001" ;
+    wdata:Q7200235 "AZ80400001" ;
 .
 
 <urn:mdciii:1603:16:31:1:80500001>
@@ -863,7 +863,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Masallı"@aze-Latn ,
         "Masally"@eng-Latn ;
-    wdata:q7200235 "AZ80500001" ;
+    wdata:Q7200235 "AZ80500001" ;
 .
 
 <urn:mdciii:1603:16:31:1:80600001>
@@ -876,7 +876,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cəlilabad"@aze-Latn ,
         "Jalilabad"@eng-Latn ;
-    wdata:q7200235 "AZ80600001" ;
+    wdata:Q7200235 "AZ80600001" ;
 .
 
 <urn:mdciii:1603:16:31:1:80700001>
@@ -889,7 +889,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Neftçala"@aze-Latn ,
         "Neftchala"@eng-Latn ;
-    wdata:q7200235 "AZ80700001" ;
+    wdata:Q7200235 "AZ80700001" ;
 .
 
 <urn:mdciii:1603:16:31:1:80800001>
@@ -902,7 +902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Biləsuvar"@aze-Latn ,
         "Bilasuvar"@eng-Latn ;
-    wdata:q7200235 "AZ80800001" ;
+    wdata:Q7200235 "AZ80800001" ;
 .
 
 <urn:mdciii:1603:16:31:1:80900001>
@@ -915,7 +915,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Salyan"@aze-Latn ,
         "Salyan"@eng-Latn ;
-    wdata:q7200235 "AZ80900001" ;
+    wdata:Q7200235 "AZ80900001" ;
 .
 
 <urn:mdciii:1603:16:31:1:90101002>
@@ -928,7 +928,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yevlax"@aze-Latn ,
         "Yevlakh"@eng-Latn ;
-    wdata:q7200235 "AZ90101002" ;
+    wdata:Q7200235 "AZ90101002" ;
 .
 
 <urn:mdciii:1603:16:31:1:90200002>
@@ -941,7 +941,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mingəçevir"@aze-Latn ,
         "Mingechevir"@eng-Latn ;
-    wdata:q7200235 "AZ90200002" ;
+    wdata:Q7200235 "AZ90200002" ;
 .
 
 <urn:mdciii:1603:16:31:1:90300001>
@@ -954,7 +954,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ağdaş"@aze-Latn ,
         "Agdash"@eng-Latn ;
-    wdata:q7200235 "AZ90300001" ;
+    wdata:Q7200235 "AZ90300001" ;
 .
 
 <urn:mdciii:1603:16:31:1:90400001>
@@ -967,7 +967,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ucar"@aze-Latn ,
         "Ujar"@eng-Latn ;
-    wdata:q7200235 "AZ90400001" ;
+    wdata:Q7200235 "AZ90400001" ;
 .
 
 <urn:mdciii:1603:16:31:1:90500001>
@@ -980,7 +980,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zərdab"@aze-Latn ,
         "Zardab"@eng-Latn ;
-    wdata:q7200235 "AZ90500001" ;
+    wdata:Q7200235 "AZ90500001" ;
 .
 
 <urn:mdciii:1603:16:31:1:90600001>
@@ -993,7 +993,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kürdəmir"@aze-Latn ,
         "Kurdamir"@eng-Latn ;
-    wdata:q7200235 "AZ90600001" ;
+    wdata:Q7200235 "AZ90600001" ;
 .
 
 <urn:mdciii:1603:16:31:1:90700001>
@@ -1006,7 +1006,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "İmişli"@aze-Latn ,
         "Imishly"@eng-Latn ;
-    wdata:q7200235 "AZ90700001" ;
+    wdata:Q7200235 "AZ90700001" ;
 .
 
 <urn:mdciii:1603:16:31:1:90800001>
@@ -1019,7 +1019,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saatlı"@aze-Latn ,
         "Saatly"@eng-Latn ;
-    wdata:q7200235 "AZ90800001" ;
+    wdata:Q7200235 "AZ90800001" ;
 .
 
 <urn:mdciii:1603:16:31:1:90900001>
@@ -1032,7 +1032,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sabirabad"@aze-Latn ,
         "Sabirabad"@eng-Latn ;
-    wdata:q7200235 "AZ90900001" ;
+    wdata:Q7200235 "AZ90900001" ;
 .
 
 <urn:mdciii:1603:16:31:1:91000001>
@@ -1045,7 +1045,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hacıqabul"@aze-Latn ,
         "Hajigabul"@eng-Latn ;
-    wdata:q7200235 "AZ91000001" ;
+    wdata:Q7200235 "AZ91000001" ;
 .
 
 <urn:mdciii:1603:16:31:1:91100002>
@@ -1058,6 +1058,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Şirvan"@aze-Latn ,
         "Shirvan"@eng-Latn ;
-    wdata:q7200235 "AZ91100002" ;
+    wdata:Q7200235 "AZ91100002" ;
 .
 
